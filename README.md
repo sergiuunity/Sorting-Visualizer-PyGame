@@ -2,7 +2,7 @@
 
 Some visualization of different sorting methods using PyGame from Python.
 
-Run the .exe file having the fonts folder as well.
+Run the dist/.exe file having the fonts folder as well.
 
 You must have PyGame installed.
 
